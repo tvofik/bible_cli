@@ -1,1 +1,1 @@
-# bible_cli
+# Bible CLI APP
